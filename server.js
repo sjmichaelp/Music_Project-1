@@ -14,11 +14,9 @@ var youtube = require('./searchyoutube.js');
 var sessions;
 //
 
-const login = require('./login.js');
-const playlist = require('./playlist.js');
-const rating = require('./rating.js');
+
 const helper = require('./helper.js'); 
-var youtube = require('./searchyoutube.js');
+
 
 const info = {
     login: "Login/Signup",

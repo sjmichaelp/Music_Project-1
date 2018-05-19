@@ -129,7 +129,11 @@
   position: absolute;
   overflow: hidden;
 
-  animation: marquee 5s linear infinite;
+  
+}
+
+.marquee div:hover{
+   animation: marquee 5s linear infinite; 
 }
 
 .marquee span {
